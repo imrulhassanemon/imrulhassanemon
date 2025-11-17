@@ -24,7 +24,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=imrulhassanemon&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=imrulhassanemon&theme=dark&hide_border=false)<br/>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrulhassanemon&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
