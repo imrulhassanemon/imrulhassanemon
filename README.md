@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Imrul Hassan Emon</h1>
 <h3 align="center">Tech Enthusiast & Web Developer | Leading Projects with Precision</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imrulhassanemon" alt="imrulhassanemon" /></a> </p>
-
 - 🔭 I’m currently working on [Campus Book Hub](https://github.com/imrulhassanemon/Campus-Book-Hub)
 
 - 📫 How to reach me **imrulhassan989@gmail.com**
