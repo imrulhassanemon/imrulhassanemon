@@ -124,7 +124,7 @@ A responsive plant discovery website built using React with a focus on reusable 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=imrulhassanemon&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -132,10 +132,10 @@ A responsive plant discovery website built using React with a focus on reusable 
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/md-imrul-hassan-emon-4691ab263">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/imrulhassanemon">
     <img src="https://skillicons.dev/icons?i=github" width="45" />
   </a>
 </p>
