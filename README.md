@@ -82,15 +82,7 @@ I enjoy turning ideas and designs into clean, functional, and responsive interfa
 
 ## 🚀 Featured Projects
 
-### 📚 Campus Book Hub
 
-A modern academic marketplace designed for students to discover, buy, sell, and exchange used books.
-
-**Tech:** Next.js • TypeScript • Tailwind CSS • PostgreSQL
-
-🔗 **Live:** [Coming Soon](#)
-
----
 
 ### 🏋️ Fit Log
 
@@ -109,15 +101,6 @@ A responsive plant discovery website built using React with a focus on reusable 
 **Tech:** React • JavaScript • Tailwind CSS • Vite
 
 🔗 **Live:** https://plant-house-rosy.vercel.app/
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imrulhassanemon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrulhassanemon&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
 
 ---
 
