@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Imrul Hassan Emon</h1>
+<!-- <h1 align="center">Hi 👋, I'm Imrul Hassan Emon</h1>
 <h3 align="center">Tech Enthusiast & Web Developer | Leading Projects with Precision</h3>
 
 - 🔭 I’m currently working on [Campus Book Hub](https://github.com/imrulhassanemon/Campus-Book-Hub)
@@ -27,4 +27,136 @@
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=imrulhassanemon&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=imrulhassanemon&icon=0&color=0)](https://visitcount.itsvg.in) -->
+
+
+# 👋 Hi, I'm Imrul Hassan Emon
+
+### 💻 Frontend Developer | React & Next.js Enthusiast
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Imrul%20Hassan%20Emon&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js&descAlignY=55&descSize=18" width="100%" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate **Frontend Developer** focused on building modern, responsive, and user-friendly web applications.
+
+I'm currently strengthening my skills in **JavaScript, TypeScript, React, and Next.js**, while building real-world projects to improve my problem-solving and development skills.
+
+I enjoy turning ideas and designs into clean, functional, and responsive interfaces.
+
+* 🚀 Currently exploring **Next.js & TypeScript**
+* ⚛️ Building projects with **React & Next.js**
+* 🎨 Improving my **UI/UX and responsive design** skills
+* 🧩 Practicing **JavaScript, TypeScript & problem solving**
+* 🌱 Learning modern frontend development best practices
+* 💼 Building projects for my developer portfolio
+* 📚 Consistently learning and improving every day
+
+---
+
+## 🛠️ Skills & Technologies
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
+
+### Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,vite,vercel" />
+</p>
+
+### Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,postgres" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 Campus Book Hub
+
+A modern academic marketplace designed for students to discover, buy, sell, and exchange used books.
+
+**Tech:** Next.js • TypeScript • Tailwind CSS • PostgreSQL
+
+🔗 **Live:** [Coming Soon](#)
+
+---
+
+### 🏋️ Fit Log
+
+A modern workout tracking and exercise discovery application where users can explore exercises and manage their workout plans.
+
+**Tech:** Next.js • TypeScript • Tailwind CSS • Lucide React
+
+🔗 **Live:** https://fit-log-iota-three.vercel.app/
+
+---
+
+### 🌱 Plant House
+
+A responsive plant discovery website built using React with a focus on reusable components and clean UI.
+
+**Tech:** React • JavaScript • Tailwind CSS • Vite
+
+🔗 **Live:** https://plant-house-rosy.vercel.app/
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://skillicons.dev/icons?i=github" width="45" />
+  </a>
+</p>
+
+---
+
+## 📈 My Current Focus
+
+```text
+JavaScript → TypeScript → React → Next.js → Backend → Full Stack
+```
+
+I'm currently focused on becoming a strong **Frontend Developer** and gradually moving toward **Full-Stack Development**.
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer" width="100%" />
+</p>
+
+<p align="center">
+  <b>✨ Keep Learning • Keep Building • Keep Growing ✨</b>
+</p>
+
